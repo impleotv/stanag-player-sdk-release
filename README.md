@@ -23,11 +23,15 @@ Here is the [latest version](stanag-player-sdk-release
 **STANAG 4609 Player SDK.NET** is a node locked software. In order to get the license, please install it and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
 ***Node Info*** string can be seen when you run the demo app, as shown below.
 
-![NodeInfo string](images/license.jpg)
+<div align="center">
+  <a >
+    <img src="images/license.png" alt="License" >
+  </a>
+</div>  
 
 Please copy-paste *Node Info*, don't send an image...
 
-You'll get back a **license** file and a **key**.
-Select the license file in the *Options/License* page and apply the provided key.
+You'll get back a **license** file and a **key** that can be used in ***Activate*** method
 
 
+> For large quantities, please contact us for an **unlocked license**.

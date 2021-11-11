@@ -1,2 +1,41 @@
 name: OnPushNewVersion
 
+on:
+  push:
+    tags:
+      - 'v*'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+   
+      - name: Download release asset
+        uses: dsaltares/fetch-gh-release-asset@master
+        with:
+          #version: tags/${{ env.RELEASE }}          
+          file: SetupStanagPlayerSDK.Net.zip
+          target: SetupStanagPlayerSDK.Net.zip
+          # token: ${{ secrets.DEPLOY_TOKEN }}
+
+      - run: echo "🖥️ The version is ready to be uploaded."
+      - name: List files in the repository
+        run: |
+          tree ${{ github.workspace }}
+
+      - name: 📂 Upload MISBCoreSdk to ImpleoTV FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.1.0
+        with:
+          server: ftp.impleotv.com
+          username: sw@impleotv.com
+          password: ${{ secrets.FTP_IMPLEO_SW }}
+          local-dir: ./
+          server-dir: stanag-player-sdk/
+        
