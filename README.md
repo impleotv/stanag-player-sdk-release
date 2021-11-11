@@ -14,8 +14,7 @@ OS: Windows 10 64 bit.
 ## Installation
 
 **STANAG 4609 Player SDK.NET** can be downloaded as a **zip** file that contains installer. Unzip the **SetupStanagPlayerSDK.Net.zip** file and run the **SetupStanagPlayerSDK.Net.exe**  
-Here is the [latest version](stanag-player-sdk-release
-/releases/latest/download/SetupStanagPlayerSDK.Net.zip)
+Here is the [latest version](stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip)
 
 ## License
 
