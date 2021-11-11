@@ -9,7 +9,6 @@
 **STANAG 4609 Player SDK.NET** is an "ITAR-free" library that provides stream/file playback and MISB KLV extraction/decoding functionality.  
 More [info](https://impleotv.com/products/sdks/stanagplayersdk/).
 
-
 ## System Requirements
 OS: Windows 10 64 bit.
 ## Installation
@@ -32,6 +31,5 @@ Here is the [latest version](stanag-player-sdk-release
 Please copy-paste *Node Info*, don't send an image...
 
 You'll get back a **license** file and a **key** that can be used in ***Activate*** method
-
 
 > For large quantities, please contact us for an **unlocked license**.
