@@ -30,7 +30,7 @@ jobs:
         run: |
           tree ${{ github.workspace }}
 
-      - name: 📂 Upload MISBCoreSdk to ImpleoTV FTP
+      - name: 📂 Upload StanagPlayerSDK.Net to ImpleoTV FTP
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
           server: ftp.impleotv.com
