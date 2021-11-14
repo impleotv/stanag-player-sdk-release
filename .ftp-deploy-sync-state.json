@@ -1,0 +1,75 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1636876209681,
+    "data": [
+        {
+            "type": "folder",
+            "name": ".vscode"
+        },
+        {
+            "type": "file",
+            "name": "CHANGELOG.md",
+            "size": 7010,
+            "hash": "c860b6acf7d74d24f01c2e9b1d54a64babb92412ea5b05a6c93b90c38489114c"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 2040,
+            "hash": "190da96a36af76dec7fbaa9f885f56aceea51ce13206d13d18fbcc0afdbd9cdd"
+        },
+        {
+            "type": "file",
+            "name": "SetupStanagPlayerSDK.Net.zip",
+            "size": 60661954,
+            "hash": "2f58e13457d59ea72e001e366e9bba83373678bd098d7c124c523c2a4f7ccf46"
+        },
+        {
+            "type": "folder",
+            "name": "images"
+        },
+        {
+            "type": "file",
+            "name": "index.js",
+            "size": 701,
+            "hash": "ac0873f0b38f19eb74e732cc8296c8063419b281d44b460583b1c27f5144b368"
+        },
+        {
+            "type": "file",
+            "name": "main.mustache",
+            "size": 2042,
+            "hash": "b4bee43f69fef0dfe6f50578718fefc57a90df21d3b4d1b8c7d390076f4d1894"
+        },
+        {
+            "type": "file",
+            "name": "package-lock.json",
+            "size": 887,
+            "hash": "738e6d0a23fd50cc27de4e1ddd4277868bf118b0597bc0d3ab2617d6861b48af"
+        },
+        {
+            "type": "file",
+            "name": "package.json",
+            "size": 663,
+            "hash": "dab1204a527f873ca2661c2ff9e114c54f2033d55086178c14d1493312532902"
+        },
+        {
+            "type": "file",
+            "name": "images/impleo_logo.png",
+            "size": 4967,
+            "hash": "68585db35cd68e3e33f10aa415c000f4927d26ba8c8e0f7a72fbc9eaff044cfd"
+        },
+        {
+            "type": "file",
+            "name": "images/license.png",
+            "size": 40470,
+            "hash": "8504bbbf235f2979fd50f6e07ff796a9179f3cfafec97f088b696c406e838965"
+        },
+        {
+            "type": "file",
+            "name": ".vscode/launch.json",
+            "size": 545,
+            "hash": "8d6c63ce45ba96432b280c7faeedf9509bb1dcc57cc06cd76f6d9a2751fcb1e7"
+        }
+    ]
+}

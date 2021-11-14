@@ -18,12 +18,12 @@ The corresponding version of a low level binaries setup **StCore** (for redistri
 
 ## Download links
 
-| Software | Version                    | Download link                                                           | 
+| Software | Version              | Download link                                                           | 
 |:-----|:-------------------------|:------------------------------------------------------------------------------|
-| **STANAG 4609 Player SDK.NET**  |  2.0.4 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
-| **StCore**  |   | [StCoreSetup-x64.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/StCoreSetup-x64.zip) | 
+| **STANAG 4609 Player SDK.NET**  |  v3.8.9.2 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
+| **StCore**  |   | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
 
-*Released on Sun, 14 Nov, 09:16 GMT+2*
+*Released on Sun, 14 Nov, 09:50 GMT+2*
 
 ## License
 
