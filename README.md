@@ -13,17 +13,17 @@ More [info](https://impleotv.com/products/sdks/stanagplayersdk/).
 OS: Windows 10 64 bit.
 ## Installation
 
-**STANAG 4609 Player SDK.NET** can be downloaded as a **zip** file that contains installer. Unzip the **SetupStanagPlayerSDK.Net.zip** file and run the **SetupStanagPlayerSDK.Net.exe** 
-The corresponding version of a low level binaries setup **StCore** (for redistribution) is provided along with the SDK. 
+**STANAG 4609 Player SDK.NET** can be downloaded as a **zip** file that contains installer. Unzip the **SetupStanagPlayerSDK.Net.zip** file and run the **SetupStanagPlayerSDK.Net.exe**.  
+The corresponding version of a low level binaries **StCore setup** (for redistribution) is also provided, along with the SDK. 
 
 ## Download links
 
 | Software | Version              | Download link                                                           | 
 |:-----|:-------------------------|:------------------------------------------------------------------------------|
 | **STANAG 4609 Player SDK.NET**  |  v3.8.9.2 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
-| **StCore**  |   | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
+| **StCore**  |   | [StCoreSetup-x64.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/StCoreSetup-x64.zip) | 
 
-*Released on Sun, 14 Nov, 09:50 GMT+2*
+*Released on Sun, 14 Nov, 10:10 GMT+2*
 
 ## License
 
