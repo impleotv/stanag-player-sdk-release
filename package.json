@@ -1,0 +1,22 @@
+{
+  "name": "stanag-player-sdk-release",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <a >\r     <img src=\"images/impleo_logo.png\" alt=\"Logo\" >\r   </a>\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impleotv/stanag-player-sdk-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/impleotv/stanag-player-sdk-release/issues"
+  },
+  "homepage": "https://github.com/impleotv/stanag-player-sdk-release#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
