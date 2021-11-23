@@ -20,18 +20,19 @@ The corresponding version of a low level binaries **StCore setup** (for redistri
 
 | Software | Version              | Download link                                                           | 
 |:-----|:-------------------------|:------------------------------------------------------------------------------|
-| **STANAG 4609 Player SDK.NET**  |  v3.8.9.2 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
+| **STANAG 4609 Player SDK.NET**  |  v3.8.10 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
 | **StCore**  |   | [StCoreSetup-x64.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/StCoreSetup-x64.zip) | 
 
-*Released on Sun, 14 Nov, 10:10 GMT+2*
-
-The corresponding low level [StCore setup](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/StCoreSetup-x64.zip) (for binaries distribution). 
-
+*Released on Tue, 23 Nov, 19:55 GMT+2*
 
 ## License
 
 **STANAG 4609 Player SDK.NET** is a node locked software. In order to get the license, please install it and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
-***Node Info*** string can be seen when you run the demo app, as shown below.
+***Node Info*** string can be seen when you run the demo app, as shown below.  
+
+```
+C:\Program Files\ImpleoTV\StanagPlayerSdkNet\bin\x64>KlvPlayerTestApp.exe
+```
 
 <div align="center">
   <a >

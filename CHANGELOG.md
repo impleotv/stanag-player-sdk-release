@@ -1,5 +1,10 @@
 Change Log
 ==========
+
+### Ver. 3.8.10 (23/11/21)
+- Update low level
+- Add time restricted license support
+- Move to vc142 and correspoding boost libraries
 ### Ver. 3.8.9.2 (11/11/21)
 - Update StCore VS runtime to 2019
 ### Ver. 3.8.9.2 (11/11/21)
