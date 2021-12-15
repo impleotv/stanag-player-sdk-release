@@ -19,18 +19,22 @@ jobs:
    
       - name: Download release asset
         uses: dsaltares/fetch-gh-release-asset@master
-        with:
-          #version: tags/${{ env.RELEASE }}          
+        with:  
           file: SetupStanagPlayerSDK.Net.zip
           target: SetupStanagPlayerSDK.Net.zip
-          # token: ${{ secrets.DEPLOY_TOKEN }}
+
+      - name: Download CHANGELOG.md from release 
+        uses: dsaltares/fetch-gh-release-asset@master
+        with:    
+          file: CHANGELOG.md
+          target: CHANGELOG.md
 
       - run: echo "🖥️ The version is ready to be uploaded."
       - name: List files in the repository
         run: |
           tree ${{ github.workspace }}
 
-      - name: 📂 Upload MISBCoreSdk to ImpleoTV FTP
+      - name: 📂 Upload StanagPlayerSDK.Net to ImpleoTV FTP
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
           server: ftp.impleotv.com
