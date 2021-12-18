@@ -20,17 +20,16 @@ The corresponding version of a low level binaries **StCore setup** (for redistri
 
 | Software | Version              | Download link                                                           | 
 |:-----|:-------------------------|:------------------------------------------------------------------------------|
-| **STANAG 4609 Player SDK.NET**  |  v3.8.10 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
+| **STANAG 4609 Player SDK.NET**  |  v3.8.11 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
 | **StCore**  |   | [StCoreSetup-x64.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/StCoreSetup-x64.zip) | 
 
-*Released on Tue, 23 Nov, 19:55 GMT+2*
+*Released on Sat, 18 Dec, 18:51 GMT+2*
 
 ## License
 
 No license is needed for SDK evaluation - it will work in demo mode (with some restrictions).
 
 **STANAG 4609 Player SDK.NET** is a node locked software, so you have to get a license (after purchasing the SDK) in order to lift demo restrictions. Please install it and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
-
 ***Node Info*** string can be seen when you run the demo app, as shown below.  
 
 ```
