@@ -1,7 +1,5 @@
 Change Log
 ==========
-### Ver. 3.8.13 (17/02/22)
-- Update low level (RTSP related improvements)
 ### Ver. 3.8.11 (19/12/21)
 - Update low level
 ### Ver. 3.8.10 (23/11/21)
