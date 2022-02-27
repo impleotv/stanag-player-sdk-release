@@ -62,6 +62,8 @@ jobs:
           echo ${{ env.RELEASE_VERSION }}       
       - name: Generate README file
         run: node index.js ${{env.RELEASE_VERSION }}
+      - name: Add
+        run: git add .
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
