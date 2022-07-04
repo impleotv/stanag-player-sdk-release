@@ -13,8 +13,8 @@ More [info](https://impleotv.com/products/sdks/stanagplayersdk/).
 OS: Windows 10 64 bit.
 ## Installation
 
-**STANAG 4609 Player SDK.NET** can be downloaded as a **zip** file that contains installer. Unzip the **SetupStanagPlayerSDK.Net.zip** file and run the **SetupStanagPlayerSDK.Net.exe**.  
-The corresponding version of a low level binaries **StCore setup** (for redistribution) is also provided, along with the SDK. 
+**STANAG 4609 Player SDK.NET** can be downloaded as a **zip** file that contains the installer. Unzip the **SetupStanagPlayerSDK.Net.zip** file and run the **SetupStanagPlayerSDK.Net.exe**.  
+The corresponding version of low-level binaries **StCore setup** (for redistribution) is also provided, along with the SDK. 
 
 ## Download links
 
@@ -29,7 +29,7 @@ The corresponding version of a low level binaries **StCore setup** (for redistri
 
 No license is needed for SDK evaluation - it will work in demo mode (with some restrictions).
 
-**STANAG 4609 Player SDK.NET** is a node locked software, so you have to get a license (after purchasing the SDK) in order to lift demo restrictions. Please install it and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
+**STANAG 4609 Player SDK.NET** is a node-locked software, so you have to get a license (after purchasing the SDK) in order to lift demo restrictions. Please install it and fill out an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
 ***Node Info*** string can be seen when you run the demo app, as shown below.  
 
 ```
