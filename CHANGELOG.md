@@ -1,5 +1,8 @@
 Change Log
 ==========
+### Ver. 3.9.2 (09/08/22)
+- Update low level
+- Add tags 115, 116, 121, 122, 128, 138, 139
 ### Ver. 3.9.1 (03/07/22)
 - Update low level
 ### Ver. 3.9.0 (4/05/22)
