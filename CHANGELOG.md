@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 3.9.5 (02/02/23)
+- Update MisbCore. Add VCip support to VMTI
 ### Ver. 3.9.4 (14/08/22)
 - Update MisbCore (fix VMTI target id)
 ### Ver. 3.9.2 (09/08/22)
