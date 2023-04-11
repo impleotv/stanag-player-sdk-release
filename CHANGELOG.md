@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 3.9.7 (11/04/23)
+- Add JWT authentication for HLS
 ### Ver. 3.9.5 (02/02/23)
 - Update MisbCore. Add VCip support to VMTI
 ### Ver. 3.9.4 (14/08/22)
