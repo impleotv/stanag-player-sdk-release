@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 3.9.8 (11/05/23)
+- Update low level
 ### Ver. 3.9.7 (11/04/23)
 - Add JWT authentication for HLS
 ### Ver. 3.9.5 (02/02/23)
