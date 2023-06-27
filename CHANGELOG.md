@@ -1,6 +1,7 @@
 Change Log
 ==========
-
+### Ver. 3.10.1 (27/06/23)
+- Low level update. Decoder memory leak fix
 ### Ver. 3.10.0 (23/05/23)
 - Low level update. FFmpeg version change
 - Add api for configuring decoding hw acceleration type
