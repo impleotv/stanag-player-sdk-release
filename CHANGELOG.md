@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 3.10.2 (16/07/23)
+- Fix BER-OID Encoding/Decoding for VMTI Target ID
 ### Ver. 3.10.1 (27/06/23)
 - Low level update. Decoder memory leak fix
 ### Ver. 3.10.0 (23/05/23)
