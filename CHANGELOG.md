@@ -1,5 +1,10 @@
 Change Log
 ==========
+
+### Ver. 3.10.3 (23/08/23)
+- Low level update. 
+- Support the sps information provided in an rtp packet with a format STAP-A 
+- Fix the SequenceHeaderInsertionOnKeyFrames property did not reach its destination in the DVR mode
 ### Ver. 3.10.2 (16/07/23)
 - Fix BER-OID Encoding/Decoding for VMTI Target ID
 ### Ver. 3.10.1 (27/06/23)
