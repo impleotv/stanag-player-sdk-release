@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 3.10.5 (26/11/23)
+- Low level update. Quicksync related
 ### Ver. 3.10.4 (12/10-/23)
 - Fix long VMTI tracker (over 14 items)
 ### Ver. 3.10.3 (23/08/23)
