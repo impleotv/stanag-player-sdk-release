@@ -1,5 +1,8 @@
 Change Log
 ==========
+### Ver. 3.10.6 (30/11/23)
+- Supporting DirectX renderer in display cards which do not support YV12
+- Supporting QuickSync decoding in PCs that did not support it
 ### Ver. 3.10.5 (26/11/23)
 - Low level update. Quicksync related
 ### Ver. 3.10.4 (12/10-/23)
