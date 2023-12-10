@@ -1,5 +1,9 @@
 Change Log
 ==========
+### Ver. 3.10.8 (10/12/23)
+- Update low level
+- Add support for external decoder configuration dll (optional Decoder Configuration plugin)
+- TsParser version is 3.9.6
 ### Ver. 3.10.7 (06/12/23)
 - Update low level
 ### Ver. 3.10.6 (30/11/23)
