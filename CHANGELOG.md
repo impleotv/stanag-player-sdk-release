@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 3.10.9 (13/12/23)
+- Update low level
 ### Ver. 3.10.8 (10/12/23)
 - Update low level
 - Add support for external decoder configuration dll (optional Decoder Configuration plugin)
