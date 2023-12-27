@@ -1,5 +1,9 @@
 Change Log
 ==========
+### Ver. 3.10.12 (27/12/23)
+- Update low level
+### Ver. 3.10.11 (22/12/23)
+- Update low level (finalize integration)
 ### Ver. 3.10.10 (14/12/23)
 - Update low level
 ### Ver. 3.10.9 (13/12/23)
