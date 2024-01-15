@@ -1,5 +1,11 @@
 Change Log
 ==========
+### Ver. 3.10.14 (15/01/24)
+- Update low level
+- A fix in listening on multicast address when specifying nic
+- Graphic overlay fix: supporting unicode text overlay insertion (for hebrew)
+### Ver. 3.10.13 (03/01/24)
+- Update low level (Injector memory leak)
 ### Ver. 3.10.12 (27/12/23)
 - Update low level
 ### Ver. 3.10.11 (22/12/23)
