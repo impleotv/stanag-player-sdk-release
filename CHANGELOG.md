@@ -1,5 +1,14 @@
 Change Log
 ==========
+### Ver. 3.11.2 (10/03/24)
+Low level changes:
+- Add support for EVR renderer
+- Add debug monitoring points for D3D9 Renderer
+- Add an ini patch to disable footer search. To use it, 
+To activate the patch, DemuxFilter.ini containing the following should be copied to Filters folder
+[Parsing]
+FooterSearchIsDisabled=1
+
 ### Ver. 3.11.1 (22/02/24)
 - Update low level
 - Add option for async callback of sync frames
