@@ -1,5 +1,9 @@
 Change Log
 ==========
+
+### Ver. 3.11.3 (12/03/24)
+ DirectX mode playback improvements.
+
 ### Ver. 3.11.2 (10/03/24)
 Low level changes:
 - Add support for EVR renderer
