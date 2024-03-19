@@ -1,6 +1,8 @@
 Change Log
 ==========
-
+### Ver. 3.11.4 (19/03/24)
+ Improving the playback smoothness in D3d rendering
+ 
 ### Ver. 3.11.3 (12/03/24)
  DirectX mode playback improvements.
 
