@@ -1,5 +1,10 @@
 Change Log
 ==========
+
+### Ver. 3.11.5 (24/03/24)
+- Update MisbCore
+	- Remove length from VMTI Location (tag 17)
+	- Remove length from VMTI Velocity and Acceleration DLP 
 ### Ver. 3.11.4 (19/03/24)
  Improving the playback smoothness in D3d rendering
  
