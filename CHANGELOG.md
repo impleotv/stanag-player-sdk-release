@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+### Ver. 3.12.0 (26/03/24)
+- Modify NodeInfo format
+Low level:
+- Improving performance in D3d rendering
+- Fixing VideoOverlayMixer in handling I420 pixel format
+
 ### Ver. 3.11.5 (24/03/24)
 - Update MisbCore
 	- Remove length from VMTI Location (tag 17)
