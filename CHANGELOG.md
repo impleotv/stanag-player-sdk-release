@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 3.12.1 (01/04/24)
+- Modify base NodeInfo 
 
 ### Ver. 3.12.0 (26/03/24)
 - Modify NodeInfo format
