@@ -20,10 +20,10 @@ The corresponding version of low-level binaries **StCore setup** (for redistribu
 
 | Software | Version              | Download link                                                           | 
 |:-----|:-------------------------|:------------------------------------------------------------------------------|
-| **STANAG 4609 Player SDK.NET**  |  v3.12.1 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
+| **STANAG 4609 Player SDK.NET**  |  v4.0.0 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
 | **StCore**  |   | [StCoreSetup-x64.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/StCoreSetup-x64.zip) | 
 
-*Released on Mon, 1 Apr, 09:32 GMT+3*
+*Released on Wed, 1 May, 16:44 GMT+3*
 
 ## License
 
@@ -44,6 +44,5 @@ C:\Program Files\ImpleoTV\StanagPlayerSdkNet\bin\x64>KlvPlayerTestApp.exe
 
 Please copy-paste *Node Info*, don't send an image...
 
-You'll get back a **license** file and a **key** that can be used in ***Activate*** method
-
+You'll receive a license file (or both a license file and a key for legacy licensing mechanism) that can be utilized in the Activate method.
 > For large quantities, please contact us for an **unlocked license**.

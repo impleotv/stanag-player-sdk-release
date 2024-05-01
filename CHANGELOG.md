@@ -1,5 +1,18 @@
 Change Log
 ==========
+
+### Ver. 4.0.0 (1/05/24)
+- Move to .Net 4.7.2
+- Add JWT license
+
+- Modify low level 
+	- Add delay option in videoOverlayMixer
+	- Add option to override aspect ratio in VideoOverlayMixer
+	- Improvements in presentation filters
+	- Initial latency configuration fixes
+	- Fix aspect ratio handling
+	- Improve logging of monitored events (specifically for video renderer)
+
 ### Ver. 3.12.1 (01/04/24)
 - Modify base NodeInfo 
 
