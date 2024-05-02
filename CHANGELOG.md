@@ -1,6 +1,10 @@
 Change Log
 ==========
-
+### Ver. 4.0.1 (2/05/24)
+- low level 
+	- Fix pause handling in VideoOverlayMixer
+	- improve D3d video renderer performance
+	
 ### Ver. 4.0.0 (1/05/24)
 - Move to .Net 4.7.2
 - Add JWT license
