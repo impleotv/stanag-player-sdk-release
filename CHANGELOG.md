@@ -8,6 +8,7 @@ Change Log
 ### Ver. 4.0.0 (1/05/24)
 - Move to .Net 4.7.2
 - Add JWT license
+- Modify samples setup structure
 
 - Modify low level 
 	- Add delay option in videoOverlayMixer
