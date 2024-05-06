@@ -33,7 +33,7 @@ No license is needed for SDK evaluation - it will work in demo mode (with some r
 ***Node Info*** string can be seen when you run the demo app, as shown below.  
 
 ```
-C:\Program Files\ImpleoTV\StanagPlayerSdkNet\bin\x64>KlvPlayerTestApp.exe
+C:\Program Files\ImpleoTV\StanagPlayerSdkNet\Samples\KlvPlayerTestApp\bin>KlvPlayerTestApp.exe
 ```
 
 <div align="center">
