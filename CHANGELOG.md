@@ -1,5 +1,12 @@
 Change Log
 ==========
+
+### Ver. 4.0.4 (13/05/24)
+- low level 
+	- Modify Log Trace to avoid crash when running in IIS
+	- Add Program stream push demux
+	- Add option for buffer writes in StCore instead of UDP input
+
 ### Ver. 4.0.1 (2/05/24)
 - low level 
 	- Fix pause handling in VideoOverlayMixer
