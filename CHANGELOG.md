@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 4.0.5 (19/05/24)
+- low level 
+	- Complete support for pull demux with MPEG-PROGRAM input
+	- Complete fix for IIS crash
+
 ### Ver. 4.0.4 (13/05/24)
 - low level 
 	- Modify Log Trace to avoid crash when running in IIS
