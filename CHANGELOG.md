@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 4.0.6 (26/05/24)
+- low level 
+	- Add an option to select the gpu device performing the hw accelerated decoding
+
+
 ### Ver. 4.0.5 (19/05/24)
 - low level 
 	- Complete support for pull demux with MPEG-PROGRAM input
