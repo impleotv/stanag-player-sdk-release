@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 4.1.0 (14/08/24)
+- low level modifications
+- MisbCore VMTI modifications
+	- Add MISB903.6 support 
+
 ### Ver. 4.0.7 (05/06/24)
 - low level
 	- Fix aspect ratio and vertical flip in video snapshot
