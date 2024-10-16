@@ -1,5 +1,10 @@
 Change Log
 ==========
+### Ver. 4.1.2 (16/10/24)
+- low level
+	- Fix RTSP if more than 4 tracks
+	- Fix Directx renderer dead-lock in low delay
+
 ### Ver. 4.1.1 (10/09/24)
 - low level modifications
 	- Comply with H264 SEI NAL in the beginning of PES
