@@ -1,5 +1,10 @@
 Change Log
 ==========
+### Ver. 4.1.3 (22/10/24)
+- low level
+	- Stabilize smoothing filter
+	- Add StreamDeliverySmoother.dll to setup
+
 ### Ver. 4.1.2 (16/10/24)
 - low level
 	- Fix RTSP if more than 4 tracks
