@@ -1,5 +1,10 @@
 Change Log
 ==========
+
+### Ver. 4.1.4 (15/11/24)
+- low level
+	- support decoding of H265 with P10 pixel format
+
 ### Ver. 4.1.3 (22/10/24)
 - low level
 	- Stabilize smoothing filter
