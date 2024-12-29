@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 4.1.5 (29/12/24)
+- low level
+ - fix playback stability in switch sources
+ - improve time jumps resync handling
+
 ### Ver. 4.1.4 (15/11/24)
 - low level
 	- support decoding of H265 with P10 pixel format
