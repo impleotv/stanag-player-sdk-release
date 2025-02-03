@@ -1,6 +1,16 @@
 Change Log
 ==========
 
+### Ver. 4.2.1 (30/01/25)
+- low level
+ - Adding support for AV1 in RTP input and in decoding
+ - AV1 stabilization fixes
+
+### Ver. 4.2.0 (12/01/25)
+- low level
+ - Upgrading ffmpeg to 5.1.2
+ - Use Filters v1.7
+ 
 ### Ver. 4.1.5 (29/12/24)
 - low level
  - fix playback stability in switch sources
