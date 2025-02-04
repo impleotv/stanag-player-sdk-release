@@ -1,6 +1,8 @@
 Change Log
 ==========
-
+### Ver. 4.2.2 (04/02/25)
+- low level
+	- MPEG-TS detection fixes
 ### Ver. 4.2.1 (30/01/25)
 - low level
  - Adding support for AV1 in RTP input and in decoding
