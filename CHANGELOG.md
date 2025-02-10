@@ -1,5 +1,9 @@
 Change Log
 ==========
+
+### Ver. 4.2.3 (09/02/25)
+- Update time server implementation
+
 ### Ver. 4.2.2 (04/02/25)
 - low level
 	- MPEG-TS detection fixes
