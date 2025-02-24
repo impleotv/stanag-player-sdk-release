@@ -1,5 +1,18 @@
 Change Log
 ==========
+
+### Ver. 4.2.5 (24/02/25)
+- low level Ver. 1.7.9 (23/2/25)
+	- Added API for enable/disable transport discontinuity events (default is ignore discontinuity)
+
+### Ver. 4.2.4 (19/02/25)
+- Replace x32 h264 encoder with x64
+- low level Ver. 1.7.8 (19/2/25)
+	- Fixed resolution detection in HEVC
+	- supporting synthetic video insertion and dynamic input resolution change in encoder
+	- fixing a regression bug in video capture mode
+	- Supporting aspect ration dynamic change in encoder
+
 ### Ver. 4.2.4 (19/02/25)
 - Replace x32 h264 encoder with x64
 - low level Ver. 1.7.8 (19/2/25)
