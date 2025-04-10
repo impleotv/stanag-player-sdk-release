@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 4.2.8 (10/04/25)
+- Low level Ver. 1.7.11 (9/4/25)
+	- Fix exception on decoding stop 
+
 ### Ver. 4.2.7 (03/04/25)
 - Low level 1.7.10 
 	- Fixing demux of h265 with bad syntax
