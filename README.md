@@ -20,10 +20,10 @@ The corresponding version of low-level binaries **StCore setup** (for redistribu
 
 | Software | Version              | Download link                                                           | 
 |:-----|:-------------------------|:------------------------------------------------------------------------------|
-| **STANAG 4609 Player SDK.NET**  |  v4.2.8 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
+| **STANAG 4609 Player SDK.NET**  |  v4.2.10 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
 | **StCore**  |   | [StCoreSetup-x64.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/StCoreSetup-x64.zip) | 
 
-*Released on Thu, 10 Apr, 07:04 GMT+3*
+*Released on Mon, 12 May, 08:36 GMT+3*
 
 ## License
 
