@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 4.2.13 (03/06/25)
+- New mkdocs Manual
+- Low level Ver. 1.7.14 (28/5/25)
+	- Fixing memory leak in encoder and in AV1 decoder 
+
 ### Ver. 4.2.12 (15/05/25)
 - MISB 601. Add tag 140 (WeaponsStores)
 - Add nodeinfo QR code in demo app 
