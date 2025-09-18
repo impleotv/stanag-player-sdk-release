@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 4.3.1 (18/09/25)
+- Low level Ver. Ver. 1.7.23 (17/9/25)
+
 ### Ver. 4.3.0 (31/08/25)
  Low level Ver. 1.7.22 (31/8/25)
 - Add support for MPEG TS Demux with AV1
