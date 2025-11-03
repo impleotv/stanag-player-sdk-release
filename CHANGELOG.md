@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+### Ver. 4.3.2 (03/11/25)
+- Low level
+	- Add D3dVideoRenderer.ini
+		[Quality]
+		disabledStretchingIterpolation=1
+
 ### Ver. 4.3.1 (18/09/25)
 - Low level Ver. Ver. 1.7.23 (17/9/25)
 
