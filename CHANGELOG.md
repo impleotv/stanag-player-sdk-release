@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 4.3.4 (26/12/25)
+ Low level Ver. 1.7.26 (25/12/25)
+	- Fix frame accurate step when renderer is VMR9
+
 ### Ver. 4.3.2 (03/11/25)
 - Low level
 	- Add D3dVideoRenderer.ini
