@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 4.3.5 (07/01/26)
+- Low level Ver. 1.7.27 (7/1/26)
+	- Fix green video when resizing with DirectX window
+
 ### Ver. 4.3.4 (26/12/25)
  Low level Ver. 1.7.26 (25/12/25)
 	- Fix frame accurate step when renderer is VMR9
