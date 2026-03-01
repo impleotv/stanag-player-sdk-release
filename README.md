@@ -23,7 +23,7 @@ The corresponding version of low-level binaries **StCore setup** (for redistribu
 | **STANAG 4609 Player SDK.NET**  |  v4.3.6 | [SetupStanagPlayerSDK.Net.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/SetupStanagPlayerSDK.Net.zip) | 
 | **StCore**  |   | [StCoreSetup-x64.zip](https://github.com/impleotv/stanag-player-sdk-release/releases/latest/download/StCoreSetup-x64.zip) | 
 
-*Released on Sun, 1 Mar 2026, 10:52 GMT+2*
+*Released on Sun, 1 Mar 2026, 10:55 GMT+2*
 
 ## License
 
