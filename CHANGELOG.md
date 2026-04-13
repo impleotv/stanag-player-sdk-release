@@ -1,6 +1,15 @@
 Change Log
 ==========
 
+### Ver. 4.3.7 (13/04/26)
+- Low level Ver. ### Ver. 1.7.33 (12/4/26)
+	- Added optimizitation for numbers grid overlay
+	- Added support for snapshot of the D3d target surface
+	- Supporting H264/RTSP streams with only sps (no pps) inside the bitstream
+	- Fixing application stuck in low delay and WPF D3dImage mode
+	- Changing default log level to DEBUG
+	- Enhanced digital zoom with DirectX
+
 ### Ver. 4.3.6 (01/03/26)
 - Sign StCore 
 - Low level Ver. 1.7.27 (7/1/26)
