@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 4.3.11 (27/05/26)
+	 - Fix missig dependecy
 
 ### Ver. 4.3.10 (22/05/26)
 	- Low level Ver. (19/5/26)
