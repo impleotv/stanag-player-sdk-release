@@ -1,5 +1,12 @@
 Change Log
 ==========
+
+### Ver. 4.4.0 (30/08/26)
+	- Low level Ver. 1.7.38 (27/7/26)
+	- Update ffmpeg to 8.1.2.
+	- Fix some misbcore MISB903 issues
+	- Add more tags in MISB903
+
 ### Ver. 4.3.11 (27/05/26)
 	 - Fix missig dependecy
 
